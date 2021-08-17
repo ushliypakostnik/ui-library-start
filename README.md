@@ -23,3 +23,8 @@ npm run build
 ```
 npm run lint
 ```
+
+### Upgrade UI library to latest version
+```
+npm run update
+```
