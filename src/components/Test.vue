@@ -35,6 +35,9 @@ export default {
   padding 100px 0
   text-align center
 
+  img
+    margin 0 auto
+
   &__components
     margin-top 50px
 

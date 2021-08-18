@@ -15,3 +15,18 @@ export default {
   },
 };
 </script>
+
+<style lang="stylus">
+@import "~/src/stylus/_stylebase.styl";
+
+:root
+  scroll-behavior smooth
+
+body
+  font-family $font-family, sans-serif
+  -moz-osx-font-smoothing grayscale
+  -webkit-font-smoothing antialiased
+  text-rendering: optimizeSpeed
+  color $colors.text
+  overflow-x hidden
+</style>
