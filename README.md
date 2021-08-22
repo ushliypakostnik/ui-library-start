@@ -2,7 +2,7 @@
 
 [Library package on NPM](https://www.npmjs.com/package/ui-library-starter)
 
-[Library deploy on Netlify](https://ui-library-starter.netlify.app/)
+[Documentation](https://ui-library-starter.netlify.app/)
 
 ## Project setup
 ```
